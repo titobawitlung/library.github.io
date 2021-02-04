@@ -1,0 +1,43 @@
+div{
+	font-size: 50px;
+	font-style: italic;
+	color:yellow;
+	text-align: center;
+	height: 20px;
+	text-decoration: underline;
+}
+
+h3{
+	color: white
+}
+
+p{
+	text-align: center;
+	font-size: 20px;
+}
+button{
+	font-style: italic;
+	color: white;
+	background: lightslategrey;
+	font-size: 15px;
+	border-radius: 20px;
+	padding:10px 30px 10px 30px;
+}
+
+a{
+	text-decoration: none;
+}
+
+body{
+	background-image: url(image/TK.jpg);
+	background-size: 100%;
+}
+
+hr{
+	color: green;
+	height: 10px;
+}
+
+.btn{
+	background: blue;
+}
